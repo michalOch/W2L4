@@ -1,0 +1,13 @@
+D:\Dev\SzkolaDotneta\tydzien2\referenceTypes\referenceTypes\bin\Debug\netcoreapp3.1\referenceTypes.exe
+D:\Dev\SzkolaDotneta\tydzien2\referenceTypes\referenceTypes\bin\Debug\netcoreapp3.1\referenceTypes.deps.json
+D:\Dev\SzkolaDotneta\tydzien2\referenceTypes\referenceTypes\bin\Debug\netcoreapp3.1\referenceTypes.runtimeconfig.json
+D:\Dev\SzkolaDotneta\tydzien2\referenceTypes\referenceTypes\bin\Debug\netcoreapp3.1\referenceTypes.runtimeconfig.dev.json
+D:\Dev\SzkolaDotneta\tydzien2\referenceTypes\referenceTypes\bin\Debug\netcoreapp3.1\referenceTypes.dll
+D:\Dev\SzkolaDotneta\tydzien2\referenceTypes\referenceTypes\bin\Debug\netcoreapp3.1\referenceTypes.pdb
+D:\Dev\SzkolaDotneta\tydzien2\referenceTypes\referenceTypes\obj\Debug\netcoreapp3.1\referenceTypes.AssemblyInfoInputs.cache
+D:\Dev\SzkolaDotneta\tydzien2\referenceTypes\referenceTypes\obj\Debug\netcoreapp3.1\referenceTypes.AssemblyInfo.cs
+D:\Dev\SzkolaDotneta\tydzien2\referenceTypes\referenceTypes\obj\Debug\netcoreapp3.1\referenceTypes.csproj.CoreCompileInputs.cache
+D:\Dev\SzkolaDotneta\tydzien2\referenceTypes\referenceTypes\obj\Debug\netcoreapp3.1\referenceTypes.dll
+D:\Dev\SzkolaDotneta\tydzien2\referenceTypes\referenceTypes\obj\Debug\netcoreapp3.1\referenceTypes.pdb
+D:\Dev\SzkolaDotneta\tydzien2\referenceTypes\referenceTypes\obj\Debug\netcoreapp3.1\referenceTypes.genruntimeconfig.cache
+D:\Dev\SzkolaDotneta\tydzien2\referenceTypes\referenceTypes\obj\Debug\netcoreapp3.1\referenceTypes.csprojAssemblyReference.cache
